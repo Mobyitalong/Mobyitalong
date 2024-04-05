@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Mobyitalong
+- 🌱 I’m currently learning Go
